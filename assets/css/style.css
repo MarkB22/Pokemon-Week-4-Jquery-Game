@@ -1,0 +1,91 @@
+
+p{
+	font-size: 45px;
+}
+
+
+h1 {
+	
+	padding: 20px 0;
+	margin: 0;
+	font-size: 28px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h2 {
+	
+	padding: 20px 0;
+	margin: 0;
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+
+
+
+.jumbotron{
+	width: 80%;
+	margin: 150px 50px;
+	text-align: center;
+	font-family: "Georgia",Times New Roman,Times,serif;
+	background-color: lightblue;
+
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+
+}
+
+.row {
+	width: 100%;
+	margin-top: 150px;
+}
+
+
+.enemy{
+	
+	border: solid grey;
+	margin: 0 80px;
+
+
+
+}
+
+.mainfooter {
+	width: 100%;
+	font-family: "Georgia",Times New Roman,Times,serif;
+	position: absolute;
+	background: #666666;
+	color: #ffffff;
+	padding: 40px;
+	text-align: center;
+	margin: 0;
+	bottom: -20px;
+	border-top: solid 20px #4aaaa5;
+	left: 0;
+}
+
+.audio{
+    visibility: hidden;
+}
+
+.fight{
+	width: 200px;
+	height: 200px;
+	border: dashed 10px grey;
+	margin: 0 80px;
+	text-align: center;
+}
+
+.song{
+	padding: 20px 0;
+	margin: 0;
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 20px;
+
+}
